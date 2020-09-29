@@ -1,6 +1,6 @@
 ### Hello there 👋😄
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MagicWinner&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicWinner&hide=html,css&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=MagicWinner&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicWinner&hide=html,css,php&layout=compact)
 
 <!--
 **MagicWinner/MagicWinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
