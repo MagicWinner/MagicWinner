@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://vk.me/magicwinner"><img src="https://img.shields.io/badge/-@magicwinner-3423A6?style=flat&logo=vk&logoColor=white"/></a>
-<a href="https://t.me/magicw1nner"><img src="https://img.shields.io/badge/-@magicw1nner-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/magicwinner"><img src="https://img.shields.io/badge/-@magicwinner-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/magicwinnerof"><img src="https://img.shields.io/badge/-@magicwinnerof-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/21l3l5m24670nbm2cvlq8nv9o"><img src="https://img.shields.io/badge/-@MagicWinner-3423A6?style=flat&logo=Spotify"/></a>
 </p>
